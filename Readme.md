@@ -8,7 +8,7 @@ An interactive sales analytics dashboard built with Python, Streamlit, and Plotl
 
 ## 📸 Preview
 
-> *Add a screenshot of your dashboard here after deploying. You can drag and drop an image directly into GitHub's README editor.*
+<img width="1828" height="343" alt="Ecommerce Sales Dashboard Preview" src="https://github.com/user-attachments/assets/9f3553b8-1ce9-47e9-8006-eaa09453a9a9" />
 
 ---
 
