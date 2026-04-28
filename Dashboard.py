@@ -71,7 +71,7 @@ def load_data(path):
     return df
  
 # ─── Replace this path with your actual CSV file path ───
-DATA_PATH = "C:/Users/Support/Documents/Marcell/Learning/Sales Dashboard/E-Commerce Sales Data.csv"
+DATA_PATH = "E-Commerce Sales Data.csv"
  
 try:
     df = load_data(DATA_PATH)
