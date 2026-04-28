@@ -2,7 +2,7 @@
 
 An interactive sales analytics dashboard built with Python, Streamlit, and Plotly. Designed to help business stakeholders explore 100,000+ e-commerce orders through dynamic filters and real-time visualizations — no spreadsheet required.
 
-**[🚀 Live Demo →] [(https://your-app-name.streamlit.app)](https://ecommerce-sales-dashboard-2mcaftt5vch58qzx9uups6.streamlit.app/)**
+**[🚀 Live Demo →] [(https://ecommerce-sales-dashboard-2mcaftt5vch58qzx9uups6.streamlit.app/)]**
 
 ---
 
