@@ -54,6 +54,11 @@ st.markdown("""
     /* Hide streamlit branding */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
+
+    /* Hide only the Deploy button, keep the header (and sidebar toggle) visible */
+    [data-testid="stDeployButton"] { display: none; }
+    [data-testid="stDecoration"] { display: none; }
+    [data-testid="stHeader"] { background-color: transparent; }
 </style>
 """, unsafe_allow_html=True)
 
